@@ -31,7 +31,7 @@ bin/
 
 #User
 /*.vhd
-/*.v
+#/*.v
 *.cf
 *.json
 *.vcd
@@ -39,7 +39,7 @@ bin/
 !tester/src/test/resources/*.vhd
 obj_dir
 *.logTrace
-*.yaml
+#*.yaml
 *.memTrace
 *.regTrace
 *.debugTrace
